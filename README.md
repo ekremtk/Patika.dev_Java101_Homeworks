@@ -9,3 +9,4 @@ In this file there are homeworks for Java101 Class at Patika.dev
 * You can find the Taximeter Calculator Homework at [Taksimetre](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/138ccf7df479afce0c15874ecd1c85ca2e1955e1/src/taksimetreHesaplama.java)
 * You can find the Circle Calculator Homework at [Daire](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/35510e822219a7a69ad3ad3eee0e2ea4e39311b5/src/daireHesaplama.java)
 * You can find the Body Mass Index Homework at [VKI](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/aef617bd873d2bdcdf5943aaeb2d63316a5a8a87/src/vucutKitleIndeks.java)
+* You can find the Greengrocer Homework at [Manav](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/e6b4ad55aac4d13f395085b2d16f8d73fdc3f3d8/src/manavKasa.java)
