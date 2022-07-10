@@ -19,6 +19,6 @@ In this file there are homeworks for Java101 Class at Patika.dev
 **Homeworks for Condition Statements**
 
 * You can find the Calculator with Switch-Case Homework at [Hesap Makinesi](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/dada860014e9dd7b74b7c8550d419a8387d8d5b2/src/kosulIfadeleriUygulamalari/hesapMakinesi_switchCase.java)
-* [] ()
+* You can find the User Input Homework at [Kullanıcı Girişi](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/739f8e85c5de6ce32c2d187db4db76c52c650eae/src/kosulIfadeleriUygulamalari/kullaniciGirisi.java)
 * [] ()
 * [] ()
