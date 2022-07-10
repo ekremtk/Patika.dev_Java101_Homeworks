@@ -25,7 +25,7 @@ In this file there are homeworks for Java101 Class at Patika.dev
 * You can find the Sorting Numbers Homework at [Sayıları Sıralama](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/e6f0e2d97b185278a34f3d3218bc74bbb990b17a/src/kosulIfadeleriUygulamalari/sayiSiralama.java)
 * You can find the Horoscope Finder Homework at [Burç Bulma](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/099b24092dad74dd9dbfeee4d69f0bb23a52ba26/src/kosulIfadeleriUygulamalari/burcBulma_ifelse.java)
 * You can find the Flight Ticket Calculation Homework at [Uçak Bilet Fiyatı](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/d601a386ed09819a6676e545b873e708cb119e46/src/kosulIfadeleriUygulamalari/ucakBileti.java)
-* You can find the Chinese Zodiac Calculator Homework at [Çin Zodyağı] ()
+* You can find the Chinese Zodiac Calculator Homework at [Çin Zodyağı](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/416173ca4ec1919cfda0428d8861394b65dc956b/src/kosulIfadeleriUygulamalari/cinZodyagi.java)
 * You can find the Leap Year Calculation Homework at [Artık Yıl] ()
 
 ---
