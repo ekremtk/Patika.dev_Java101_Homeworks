@@ -27,3 +27,7 @@ In this file there are homeworks for Java101 Class at Patika.dev
 * You can find the Flight Ticket Calculation Homework at [Uçak Bilet Fiyatı](https://github.com/ekremtk/Patika.dev_Java101_Homeworks/blob/d601a386ed09819a6676e545b873e708cb119e46/src/kosulIfadeleriUygulamalari/ucakBileti.java)
 * You can find the Chinese Zodiac Calculator Homework at [Çin Zodyağı] ()
 * You can find the Leap Year Calculation Homework at [Artık Yıl] ()
+
+---
+
+
