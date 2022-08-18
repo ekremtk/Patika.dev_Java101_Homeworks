@@ -36,9 +36,12 @@ In this file there are homeworks for Java101 Class at Patika.dev
 * You can find the Calculate The User Input According To Dividing by 2 and 4 Then Fınd The Total Homework at [Cift ve Dordun Katı](src/dongulerUygulamalari/ciftvedordunkati.java)
 * You can find the Power's of User Input With 4 and 5 Until Last Value Calculation Homework at [Dort ve Besin Kuvveti](src/dongulerUygulamalari/dortvebeskuvvetleri.java)
 * You can find the Combination Calculation Homework at [Kombinasyon](src/dongulerUygulamalari/kombinasyonHesaplama.java)
-* You can find the Exponential Calculation Homework at []()
+* You can find the Exponential Calculation Homework at [For Dongusu Ile Uslu Sayı](src/dongulerUygulamalari/uslusayihesaplamafordongusu.java)
 * You can find the []()
 * You can find the []()
 * You can find the []()
 * You can find the []()
 * You can find the []()
+
+---
+
