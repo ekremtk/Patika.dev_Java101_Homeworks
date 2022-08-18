@@ -33,5 +33,12 @@ In this file there are homeworks for Java101 Class at Patika.dev
 **Homeworks for Condition Statements**
 
 * You can find the Average Calculator of Numbers Dividing by 3 and 4 Homework at [Ortalama Hesaplayıcı](src/dongulerUygulamalari/bolmeveortalama.java)
-* You can find the User Input Homework at [Kullanıcı Girişi]()
-
+* You can find the Calculate The User Input According To Dividing by 2 and 4 Then Fınd The Total Homework at [Cift ve Dordun Katı](src/dongulerUygulamalari/ciftvedordunkati.java)
+* You can find the []()
+* You can find the []()
+* You can find the []()
+* You can find the []()
+* You can find the []()
+* You can find the []()
+* You can find the []()
+* You can find the []()
