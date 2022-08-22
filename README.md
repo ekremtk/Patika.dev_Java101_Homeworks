@@ -44,8 +44,8 @@ In this file there are homeworks for Java101 Class at Patika.dev
 * You can find the Finding Max and Min Values From Entered Numbers Homework at [Max-Min Sayı](src/dongulerUygulamalari/maxminDegerBulma.java)
 * You can find the Finding Perfect Numbers Homework at [Mukemmel Sayı](src/dongulerUygulamalari/mukemmelSayi.java)
 * You can find the Making Inverted Triangle Homework at [Ters Ucgen](src/dongulerUygulamalari/tersUcgen.java)
-* You can find the Finding Prime Numbers 1-100 Homework at [Asal Sayı]()
-* You can find the Fibonacci Series Homework at [Fibonacci]()
+* You can find the Finding Prime Numbers 1-100 Homework at [Asal Sayı](src/dongulerUygulamalari/asalSayi.java)
+* You can find the Fibonacci Series Homework at [Fibonacci](src/dongulerUygulamalari/FibonacciSeries.java)
 
 ---
 
