@@ -38,8 +38,8 @@ In this file there are homeworks for Java101 Class at Patika.dev
 * You can find the Combination Calculation Homework at [Kombinasyon](src/dongulerUygulamalari/kombinasyonHesaplama.java)
 * You can find the Exponential Calculation Homework at [For Dongusu Ile Uslu Sayı](src/dongulerUygulamalari/uslusayihesaplamafordongusu.java)
 * You can find the Sum of Digits Homework at [Sayının Rakamları Toplamı](src/dongulerUygulamalari/basamaksayilaritoplama.java)
-* You can find the Make Diamond with Stars []()
-* You can find the []()
+* You can find the Make Diamond with Stars Homework at [Yıldızlar Ile Elmas](src/dongulerUygulamalari/yildizlarlaelmas.java)
+* You can find the ATM Project with Switch-Case Method Homework at [Switch-Case Ile ATM](src/dongulerUygulamalari/atmprojesiswitchcase.java)
 * You can find the []()
 * You can find the []()
 
