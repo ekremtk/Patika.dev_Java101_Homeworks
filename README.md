@@ -49,3 +49,11 @@ In this file there are homeworks for Java101 Class at Patika.dev
 
 ---
 
+**Homeworks for Condition Statements**
+
+* You can find the Palindrome Number Checker Homework at [Palindrom Sayı](src/metotlarUygulamalari/palindromSayi.java)
+* You can find the -------- Homework at [-----------]()
+* You can find the -------- Homework at [-----------]()
+* You can find the -------- Homework at [-----------]()
+
+---
