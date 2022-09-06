@@ -53,7 +53,15 @@ In this file there are homeworks for Java101 Class at Patika.dev
 
 * You can find the Palindrome Number Checker Homework at [Palindrom Sayı](src/metotlarUygulamalari/palindromSayi.java)
 * You can find the Extended Calculator Homework at [Gelişmiş Hesap Makinesi](src/metotlarUygulamalari/gelismisHesapMakinesi.java)
-* You can find the -------- Homework at [-----------]()
-* You can find the -------- Homework at [-----------]()
+* You can find the Prime Number with Recursive Method Homework at [Asal Sayı](src/metotlarUygulamalari/asalSayıBulma.java)
+* You can find the Method by Pattern Homework at [Desene Göre Metot]()
+
+---
+
+**Homeworks for --- **
+
+* You can find the --------- Homework at [---------]()
+* You can find the --------- Homework at [---------]()
+* You can find the --------- Homework at [---------]()
 
 ---
